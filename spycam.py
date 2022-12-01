@@ -99,5 +99,5 @@ def index():
 
 # main loop
 if __name__ == '__main__':
-  # start web server
+  # start a web server
   app.run(debug=True, threaded=True)
